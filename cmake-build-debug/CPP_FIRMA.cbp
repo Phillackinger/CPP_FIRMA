@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CPP_FIRMA"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPP_FIRMA">
+				<Option output="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/CPP_FIRMA.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/include"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPP_FIRMA"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPP_FIRMA/fast">
+				<Option output="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/CPP_FIRMA.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW/include"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPP_FIRMA/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/CManager.cpp">
+			<Option target="CPP_FIRMA"/>
+		</Unit>
+		<Unit filename="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/CManager.h">
+			<Option target="CPP_FIRMA"/>
+		</Unit>
+		<Unit filename="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/abteilung.cpp">
+			<Option target="CPP_FIRMA"/>
+		</Unit>
+		<Unit filename="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/abteilung.h">
+			<Option target="CPP_FIRMA"/>
+		</Unit>
+		<Unit filename="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/carbeiter.cpp">
+			<Option target="CPP_FIRMA"/>
+		</Unit>
+		<Unit filename="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/carbeiter.h">
+			<Option target="CPP_FIRMA"/>
+		</Unit>
+		<Unit filename="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cperson.cpp">
+			<Option target="CPP_FIRMA"/>
+		</Unit>
+		<Unit filename="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cperson.h">
+			<Option target="CPP_FIRMA"/>
+		</Unit>
+		<Unit filename="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cverkaeufer.cpp">
+			<Option target="CPP_FIRMA"/>
+		</Unit>
+		<Unit filename="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cverkaeufer.h">
+			<Option target="CPP_FIRMA"/>
+		</Unit>
+		<Unit filename="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/main.cpp">
+			<Option target="CPP_FIRMA"/>
+		</Unit>
+		<Unit filename="C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

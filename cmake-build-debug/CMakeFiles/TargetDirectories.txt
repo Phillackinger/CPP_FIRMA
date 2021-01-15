@@ -1,0 +1,3 @@
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/CMakeFiles/CPP_FIRMA.dir
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+C:\Users\plack\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7319.72\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\C_HTL\OneDrive - HTBLuVA Salzburg\_Programmieren\C\FSST\4\CPP_FIRMA"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cmake-build-debug

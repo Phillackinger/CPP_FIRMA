@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/CManager.h
+sstream
+-
+cperson.h
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cperson.h
+
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/abteilung.h
+cstdlib
+-
+c++/4.8.3/vector
+-
+c++/4.8.3/string
+-
+cperson.h
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cperson.h
+
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/carbeiter.h
+string
+-
+cperson.h
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cperson.h
+
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cperson.h
+
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cverkaeufer.h
+carbeiter.h
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/carbeiter.h
+
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/main.cpp
+iostream
+-
+carbeiter.h
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/carbeiter.h
+cverkaeufer.h
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/cverkaeufer.h
+CManager.h
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/CManager.h
+abteilung.h
+C:/C_HTL/OneDrive - HTBLuVA Salzburg/_Programmieren/C/FSST/4/CPP_FIRMA/abteilung.h
+
